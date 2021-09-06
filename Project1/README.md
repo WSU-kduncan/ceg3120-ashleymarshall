@@ -14,7 +14,7 @@ Users, permissions, keys setup:
 Guides below on git commands from a given system to the repo hosted on the AWS instance.
 
 How to clone:
-
+'git clone username@AWS_IP:project_creator/repo_name.git'
 
 How to add:
 
@@ -26,7 +26,8 @@ How to push:
 
 
 ## Proof
+Clone to AWS Ubuntu System:
+![Clone to AWS Ubuntu system](clone-to-system.png)
 
-```
-![Markdown demo screenshot](markdown-demo.png)
-```
+Clone to Personal System:
+![Clone to personal system](clone-to-personal.png)
